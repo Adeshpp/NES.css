@@ -8,7 +8,7 @@ NES.css is a **NES-style(8bit-like)** CSS Framework.
 
 [![Gitter][gitter-badge]][gitter] [![Commitizen friendly][commitizen-badge]][commitizen]
 
-## Installation
+## Installation...
 
 ### Styles
 
